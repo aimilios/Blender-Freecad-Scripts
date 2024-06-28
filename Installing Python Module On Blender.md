@@ -68,5 +68,3 @@ import your_module
 If the module has dependencies, you will need to copy those as well from the system Python path to the Blender Python path.
 
 ---
-
-By following these steps, you should be able to install and use your Python module in Blender. If you encounter any issues, make sure all dependencies are correctly copied and that the paths are accurate.
