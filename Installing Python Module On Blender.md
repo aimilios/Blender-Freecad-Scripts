@@ -1,4 +1,4 @@
-# Blender-Freecad: Installing a Python Module in Blender
+# Blender: Installing a Python Module in Blender
 
 This guide provides a fast μπακαλικο way to install a Python module in Blender.
 
